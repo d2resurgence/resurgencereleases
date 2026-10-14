@@ -10,7 +10,7 @@ Download and run the .msi from the right-hand side of this page or grab it from 
 2. Download the "Source code (zip)" entry from the expanded Assets list.
 3. Unzip into your local Diablo II directory.
 
-**NOTE:** Diablo II: Lord of Destruction v1.13c is required for manual installation.
+**NOTE:** At the moment, Diablo II: Lord of Destruction v1.13c is required for both installation methods. A new launcher compatible with any version is coming soon ~~when Meanski gets off his ass~~.
 
 ## Other
 
