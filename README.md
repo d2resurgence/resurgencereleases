@@ -1,4 +1,4 @@
-# Resurgence 2.0 — Alpha and Beta releases
+# Resurgence 2.0 Alpha
 
 ## Install (Launcher)
 
